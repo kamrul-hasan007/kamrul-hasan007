@@ -103,16 +103,25 @@ I enjoy building practical and research-based projects that solve real-world pro
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kamrul-hasan007&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamrul-hasan007&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=kamrul-hasan007&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kamrul-hasan007&theme=tokyonight" />
+
+  <br><br>
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kamrul-hasan007&theme=tokyonight" />
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kamrul-hasan007&theme=tokyonight" />
+
+  <br><br>
+
+  <img src="https://streak-stats.demolab.com?user=kamrul-hasan007&theme=tokyonight&hide_border=true" />
+
+</div>
+
+
 ---
 
 ## 🏆 GitHub Trophy
