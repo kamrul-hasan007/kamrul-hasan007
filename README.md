@@ -106,14 +106,13 @@ I enjoy building practical and research-based projects that solve real-world pro
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kamrul-hasan007&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamrul-hasan007&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kamrul-hasan007&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamrul-hasan007&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kamrul-hasan007&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=kamrul-hasan007&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
-
 ---
 
 ## 🏆 GitHub Trophy
@@ -135,7 +134,11 @@ I enjoy building practical and research-based projects that solve real-world pro
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kamrul-hasan007/kamrul-hasan007/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kamrul-hasan007/kamrul-hasan007/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kamrul-hasan007/kamrul-hasan007/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/kamrul-hasan007/kamrul-hasan007/output/github-snake.svg" />
+  </picture>
 </p>
 
 ---
